@@ -1,0 +1,11 @@
+{
+  "name": "Ninon's AI Assistant",
+  "description": "A personal voice assistant for Ninon Grandjean, powered by Gemini Live API. Fluent in English and French.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "voice_interaction",
+    "multilingual"
+  ]
+}
